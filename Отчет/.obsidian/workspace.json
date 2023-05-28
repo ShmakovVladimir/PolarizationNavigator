@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "c78c90efa10a815b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e75025ec99f99b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8877074bb441aa9b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfd839faf5b5b03d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "polarized_coh_matricies.md"
+              }
+            }
+          },
+          {
+            "id": "33cfecc5e01e8ca0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/stokes_1.md"
+              }
+            }
+          },
+          {
+            "id": "3a23133ded5b7861",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/stokes_2.md"
+              }
+            }
+          },
+          {
+            "id": "37c2e29c6bc59c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b57c6b9fa419b7e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "jones.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e3d0c9cd4a6cf92",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd7a393d4aa7e8bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0994c795d8d85e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fd8f307ce66aedc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb32f86f11087173",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d798d3e72c5aa33",
+    "type": "split",
+    "children": [
+      {
+        "id": "22547b5677fdd25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94480184e7a196b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "polarized_coh_matricies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8423d23dd477fa19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "polarized_coh_matricies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02381af8f91454b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d12cd5cc557688f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "polarized_coh_matricies.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "dfd839faf5b5b03d",
+  "lastOpenFiles": [
+    "Pasted Image 20230524033014_178.png",
+    "jones.png",
+    "Excalidraw/stokes_2.md",
+    "Excalidraw/stokes_2.svg",
+    "Excalidraw/polaroid_table.md",
+    "polarized_coh_matricies.png",
+    "polaroid_table.png",
+    "polarized_coh_matricies.md",
+    "stokes_2.png",
+    "Untitled.md",
+    "stokes_3.svg",
+    "Параметры Стокса.md",
+    "Pasted Image 20230524015411_978.png",
+    "Excalidraw/stokes_1.md",
+    "main.tex",
+    "stokes_1.png",
+    "Pasted Image 20230524032722_158.png",
+    "main.ipynb",
+    "Excalidraw"
+  ]
+}
